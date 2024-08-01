@@ -1,0 +1,13 @@
+
+]
+java:S1220""Move this file to a named package.8›ÆÚõ†2J$d7adecfc-7794-466e-b12d-1c9207d0ef2f
+~	java:S125"<This block of commented-out lines of code should be removed.(¸™ý8ÆÚõ†2J$ad06bb59-08b2-4a93-b322-1703fe0fe662
+r	java:S106"+Replace this use of System.out by a logger.(¡Üžýÿÿÿÿ8žÆÚõ†2J$557d0b4a-e4e2-4f4e-83d0-0f1104941440
+|
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠÞùÿÿÿÿ8žÆÚõ†2J$39bb09c9-1c16-4a95-9ef5-ce1f9e15628d
+v
+java:S1128".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ8žÆÚõ†2J$b626ec89-99b3-4488-9554-8c75a5c6d4b9
+{
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž8žÆÚõ†2J$6e95a5f9-9a5f-4149-9b8a-ad6f8cb12dfd
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8žÆÚõ†2J$7c2a51b6-63a3-40a3-8ba7-b23a8ec635b1
