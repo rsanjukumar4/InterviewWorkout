@@ -1,0 +1,7 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(óÂÿşÿÿÿÿ8³²ãí1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ñù£–8³²ãí1
+h	java:S128)"LEnd this switch case with an unconditional break, return or throw statement.(›ô·8´²ãí1
+N
+java:S1128",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8•¶çí1

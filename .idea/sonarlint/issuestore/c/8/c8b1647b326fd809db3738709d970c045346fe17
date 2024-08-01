@@ -1,0 +1,24 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "VALUE" 3 times.(æ’şóúÿÿÿÿ8öù•çÅ1
+h
+java:S1854"FRemove this useless assignment to local variable "scientificNotation".(ÓĞ¦‹úÿÿÿÿ8úù•çÅ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ç¯Ä8Áâ‰êÅ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ’şóúÿÿÿÿ8½ÜçÅ1
+X	java:S125"<This block of commented-out lines of code should be removed.(íÓ¶Î8ûù•çÅ1
+K
+java:S1905")Remove this unnecessary cast to "Double".(æ’şóúÿÿÿÿ8ûù•çÅ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ëèÖû8ûù•çÅ1
+Y
+java:S1481"7Remove this unused "scientificNotation" local variable.(ÓĞ¦‹úÿÿÿÿ8ûù•çÅ1
+]	java:S125"<This block of commented-out lines of code should be removed.(Äƒáøÿÿÿÿ8üù•çÅ1
+d
+java:S18546"BRemove this useless assignment to local variable "formattedValue".(•ãÏüıÿÿÿÿ8‚Í¥çÅ1
+U
+java:S14816"3Remove this unused "formattedValue" local variable.(•ãÏüıÿÿÿÿ8ƒÍ¥çÅ1
+X	java:S125:"<This block of commented-out lines of code should be removed.(–æåò8şù•çÅ1
+J	java:S108>")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8şù•çÅ1
+Q
+java:S1128"4Remove this unused import 'java.text.DecimalFormat'.(¤°Ó˜8Æ³¥çÅ1
+K
+java:S1128	".Remove this unused import 'java.util.Objects'.(¼¸õ›8Æ³¥çÅ1

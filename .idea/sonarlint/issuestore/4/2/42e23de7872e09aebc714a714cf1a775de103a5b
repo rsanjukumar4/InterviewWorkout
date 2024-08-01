@@ -1,0 +1,20 @@
+
+T
+java:S3958""2Refactor the code so this stream pipeline is used.(ãÃêøÿÿÿÿ8“¸õì†2
+_
+java:S1854"=Remove this useless assignment to local variable "charArray".(ŠÑ¸˜ıÿÿÿÿ8”¸õì†2
+X	java:S125"<This block of commented-out lines of code should be removed.(÷ÒË8•¸õì†2
+P
+java:S1481".Remove this unused "charArray" local variable.(ŠÑ¸˜ıÿÿÿÿ8•¸õì†2
+L	java:S106 "+Replace this use of System.out by a logger.(¥Ï³üşÿÿÿÿ8–¸õì†2
+X	java:S125$"<This block of commented-out lines of code should be removed.(¾˜áÔ8–¸õì†2
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8–¸õì†2
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8–¸õì†2
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8–¸õì†2
+L
+java:S1128	"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8–¸õì†2
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8–¸õì†2

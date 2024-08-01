@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’íÈÊÿÿÿÿÿ8ÖÆ±åã1
+]	java:S125"<This block of commented-out lines of code should be removed.(íÈ¤˜ùÿÿÿÿ8×Æ±åã1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å´§¡ıÿÿÿÿ8×Æ±åã1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ôâ´éã1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ôâ´éã1
